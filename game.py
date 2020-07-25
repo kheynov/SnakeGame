@@ -2,7 +2,7 @@ import pygame
 import random as rnd
 
 # Constants
-width = 1000
+width = 800
 height = 600
 grid_size = 10
 
@@ -10,7 +10,7 @@ snake_color = (0, 255, 0)
 black_color = (0, 0, 0)
 apple_color = (255, 0, 0)
 
-fps = 30
+fps = 40
 start_y_pos = (width/grid_size)/2
 # =======================
 left = 1
